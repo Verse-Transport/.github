@@ -14,6 +14,6 @@
 Currently, the source code for Verse Transport is not avaliable, there are no plans to make it public in the future.
 We are however are considering working on an API that will allow you to access the same data that we either generate or collect that we display on our website.
 
-In the meantime, you can visit our website, https://versetransport.vercel.app.
+In the meantime, you can visit our website, https://versetransport.app.
 
 Auckland is the only region avaliable at the moment, this however may change in the future.
