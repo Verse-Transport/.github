@@ -12,7 +12,7 @@
 -->
 #### Welcome to the Verse Transport GitHub!
 Currently, the source code for Verse Transport is not avaliable; there are no plans to make it public in the future.
-We are however, working on an API that will allow you to access the same data that we generate and collect for your own projects.
+We are however working on an API that will allow you to access the same data that we generate and collect for your own projects.
 
 In the meantime, you can visit our website: https://versetransport.app.
 
